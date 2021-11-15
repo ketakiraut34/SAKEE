@@ -5,8 +5,8 @@
 Data Science & Machine Learning
 
 TASK 1 :- Sales management has gained importance to meet increasing competition and the need for improved
-          methods of distribution to reduce cost and to increase profits. Sales management today is the most
-          important function in a commercial and business enterprise.
+          methods of distribution to reduce cost and to increase profits. 
+          Sales management today is the most important function in a commercial and business enterprise.
           
 Here , The Amazon Dataset is used in this Task. To Analyse the data PowerBI is been use. 
 
